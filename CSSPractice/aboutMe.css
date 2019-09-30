@@ -1,0 +1,28 @@
+h1 {
+	color: rgb(68,0,150);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+}
+
+h2 {
+	color: rgba(68,0,150,0.5);
+}
+
+li {
+	color: #005F00;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+/*	background: url(https://s26551.pcdn.co/wp-content/uploads/2019/07/56427010_1251948594929965_8316498660196089856_o.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+
+	background: pink;
+}
